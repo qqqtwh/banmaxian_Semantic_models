@@ -20,3 +20,7 @@
 
 # 开始Start
 进入目标模型，运行train.py即可训练，test.py即可测试。
+# 训练自定义数据集
+1.使用Labelme工具制作数据集
+2.将xxx.png图像转为三通道图像
+3.放入datasets中，并自定义train.txt
